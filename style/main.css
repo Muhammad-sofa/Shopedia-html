@@ -9242,5 +9242,5 @@ footer p {
 }
 .navbar-store .navbar-fixed-top.scrolled {
   background-color: #fff !important;
-  transition: background-colo;
+  transition: background-color 200ms linear;
 }/*# sourceMappingURL=main.css.map */
